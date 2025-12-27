@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehran Sharifi</h1>
-<h3 align="center">Front-end Developer | Next.js 🚀 Turning ideas into reality ✨ Code, coffee & creativity ☕️👨🏻‍💻 Explore my GitHub project 😍</h3>
+<h3 align="center">Front-end Developer | Next.js 🚀 </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrandevs&label=Profile%20views&color=0e75b6&style=flat" alt="mehrandevs" /> </p>
 
