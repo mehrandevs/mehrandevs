@@ -9,11 +9,10 @@ I build responsive web interfaces and modern web applications, focusing on clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehrandevs/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mehrandevs/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sharifimehran00@gmail.com)
-
+[![Resume FA](https://img.shields.io/badge/Resume-FA-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi_fa.pdf?download=1)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi_en.pdf?download=1)
 </div>
-📄 [Download My Resume (FA) — PDF](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi.pdf?download=1)
 
-📄 [Download My Resume (EN) — PDF](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi_en.pdf?download=1)
 ---
 
 ## 👨‍💻 About Me
