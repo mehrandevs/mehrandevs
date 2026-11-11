@@ -76,4 +76,5 @@ A responsive landing page built with HTML, CSS, and JavaScript.
 
 ---
 
-📄 **[Download My Resume (PDF)](./Mehran_Sharifi.pdf)**
+📄 <a href="./Mehran_Sharifi.pdf" download>Download My Resume (FA) — PDF</a>
+📄 <a href="./Mehran_Sharifi_en.pdf" download>Download My Resume (EN) — PDF</a>
