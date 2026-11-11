@@ -11,7 +11,9 @@ I build responsive web interfaces and modern web applications, focusing on clean
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sharifimehran00@gmail.com)
 
 </div>
+📄 [Download My Resume (FA) — PDF](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi.pdf?download=1)
 
+📄 [Download My Resume (EN) — PDF](https://github.com/mehrandevs/mehrandevs/raw/refs/heads/main/Mehran_Sharifi_en.pdf?download=1)
 ---
 
 ## 👨‍💻 About Me
@@ -76,5 +78,4 @@ A responsive landing page built with HTML, CSS, and JavaScript.
 
 ---
 
-📄 <a href="./Mehran_Sharifi.pdf" download>Download My Resume (FA) — PDF</a>
-📄 <a href="./Mehran_Sharifi_en.pdf" download>Download My Resume (EN) — PDF</a>
+
