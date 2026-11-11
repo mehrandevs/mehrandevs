@@ -1,18 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mehran Sharifi</h1>
-<h3 align="center">Front-end Developer | Next.js 🚀 </h3>
+# Hi, I'm Mehran Sharifi 👋
 
+### Front-end Developer | React & Next.js
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrandevs&label=Profile%20views&color=0e75b6&style=flat" alt="mehrandevs" /> </p>
+I build responsive web interfaces and modern web applications, focusing on clean UI, reusable components, and practical user experiences.
 
-- 📫 How to reach me **sharifimehran00@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=".." height="30" width="40" /></a>
-<a href="https://instagram.com/mehrandevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrandevs" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehrandevs/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mehrandevs/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sharifimehran00@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrandevs&show_icons=true&locale=en&layout=compact" alt="mehrandevs" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 💻 Focused on Front-end Development with React and Next.js.
+- 🧩 Interested in building responsive and maintainable web applications.
+- 🔌 Experienced in working with REST APIs and MongoDB.
+- 🌱 Always learning and improving my development skills.
+
+## 🛠️ Tech Stack
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
+
+**Back-end & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+
+## 🚀 Featured Projects
+
+### [Next.js Shop](https://github.com/mehrandevs/nextjs-shop)
+
+A full-stack e-commerce project built with Next.js, React, MongoDB, and Mongoose.
+
+🔗 [Live Demo](https://nextjs-shop-devs.vercel.app/)
+
+### [Landy](https://github.com/mehrandevs/Landy)
+
+A responsive landing page built with HTML, CSS, and JavaScript.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehrandevs&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrandevs&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something useful.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehrandevs&style=flat-square&color=red)
+
+</div>
+
+---
+
+📄 **[Download My Resume (PDF)](./Mehran_Sharifi.pdf)**
